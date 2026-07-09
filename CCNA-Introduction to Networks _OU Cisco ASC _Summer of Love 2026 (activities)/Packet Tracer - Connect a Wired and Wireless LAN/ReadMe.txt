@@ -1,5 +1,3 @@
-Here is the content reformatted to match your specified structure:
-
 Assessment Overview
 
 This activity involved exploring and configuring a simulated network environment, focusing on basic networking tools, device identification, and establishing physical and logical connections.
